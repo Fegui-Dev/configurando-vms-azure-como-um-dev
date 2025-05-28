@@ -1,0 +1,1 @@
+# configurando-vms-azure-como-um-dev
